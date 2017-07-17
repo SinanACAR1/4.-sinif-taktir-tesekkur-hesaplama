@@ -1,0 +1,21 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\Lise Taktir Teşekkür Hesaplama\bin\Debug\Lise Taktir Teşekkür Hesaplama.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Lise Taktir Teşekkür Hesaplama\bin\Debug\Lise Taktir Teşekkür Hesaplama.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise_Taktir_Teşekkür_Hesaplama.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise_Taktir_Teşekkür_Hesaplama.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise Taktir Teşekkür Hesaplama.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise Taktir Teşekkür Hesaplama.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise Taktir Teşekkür Hesaplama.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Lise Taktir Teşekkür Hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise Taktir Teşekkür Hesaplama.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Lise Taktir Teşekkür Hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise Taktir Teşekkür Hesaplama.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Lise Taktir Teşekkür Hesaplama\Lise Taktir Teşekkür Hesaplama\bin\Debug\Lise Taktir Teşekkür Hesaplama.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Lise Taktir Teşekkür Hesaplama\Lise Taktir Teşekkür Hesaplama\bin\Debug\Lise Taktir Teşekkür Hesaplama.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Lise Taktir Teşekkür Hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise_Taktir_Teşekkür_Hesaplama.Form1.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Lise Taktir Teşekkür Hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise_Taktir_Teşekkür_Hesaplama.Properties.Resources.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Lise Taktir Teşekkür Hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise Taktir Teşekkür Hesaplama.csproj.GenerateResource.Cache
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\4.Sınıf Taktir Teşekkür hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise Taktir Teşekkür Hesaplama.exe
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\4.Sınıf Taktir Teşekkür hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise Taktir Teşekkür Hesaplama.pdb
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\4.Sınıf Taktir Teşekkür hesaplama\Lise Taktir Teşekkür Hesaplama\bin\Debug\Lise Taktir Teşekkür Hesaplama.exe
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\4.Sınıf Taktir Teşekkür hesaplama\Lise Taktir Teşekkür Hesaplama\bin\Debug\Lise Taktir Teşekkür Hesaplama.pdb
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\4.Sınıf Taktir Teşekkür hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise_Taktir_Teşekkür_Hesaplama.Form1.resources
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\4.Sınıf Taktir Teşekkür hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise_Taktir_Teşekkür_Hesaplama.Properties.Resources.resources
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\4.Sınıf Taktir Teşekkür hesaplama\Lise Taktir Teşekkür Hesaplama\obj\x86\Debug\Lise Taktir Teşekkür Hesaplama.csproj.GenerateResource.Cache
